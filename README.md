@@ -4,8 +4,8 @@
 -   Website: https://www.marinopardo.com
 -   Mail: urtzid@gmail.com
 
-![Marino Pardo](http://es.tinypic.com/r/drdzxu/8)
-[IMG]http://i60.tinypic.com/drdzxu.png[/IMG]
+![Alt text](http://full/path/to/img.jpg "Optional title")
+![Alt text](http://oi60.tinypic.com/drdzxu.jpg "Optional title")
 
 Marino knows how to develop and deploy any application on any cloud platform, all controlled with a single consistent workflow to maximize the productivity of you and your team.
 
