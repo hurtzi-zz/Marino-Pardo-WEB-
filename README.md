@@ -2,9 +2,9 @@
 =========
 
 -   Website: https://www.marinopardo.com
--   Mail:(https://groups.google.com/group/otto-tool)
+-   Mail: urtzid@gmail.com
 
-![Marino Pardo](https://drive.google.com/open?id=0B60ZEMw_USLAYUg4ak1EMTI1RE0)
+![Marino Pardo](http://es.tinypic.com/r/drdzxu/8)
 
 Marino knows how to develop and deploy any application on any cloud platform, all controlled with a single consistent workflow to maximize the productivity of you and your team.
 
