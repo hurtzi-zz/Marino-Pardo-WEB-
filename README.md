@@ -3,9 +3,10 @@
 
 -   Website: https://www.marinopardo.com
 -   Mail: urtzid@gmail.com
+-   
 
-![Alt text](http://full/path/to/img.jpg "Optional title")
-![Alt text](http://oi60.tinypic.com/drdzxu.jpg "Optional title")
+![Alt text](http://oi60.tinypic.com/drdzxu.jpg)
+
 
 Marino knows how to develop and deploy any application on any cloud platform, all controlled with a single consistent workflow to maximize the productivity of you and your team.
 
