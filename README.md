@@ -1,5 +1,4 @@
 # Marino Pardo WEB 
-=========
 
 -   Website: https://www.marinopardo.com
 -   Mail: urtzid@gmail.com
