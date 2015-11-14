@@ -2,10 +2,8 @@
 /**
  *
  * @package Moesia
- */
-?>
-
-	<div id="sidebar-footer" class="footer-widget-area clearfix" role="complementary">
+ * 
+ * <div id="sidebar-footer" class="footer-widget-area clearfix" role="complementary">
 		<div class="container">
 			<?php do_action( 'before_sidebar' ); ?>
 			<?php if ( is_active_sidebar( 'sidebar-3' ) ) { ?>
@@ -26,3 +24,6 @@
 			?>
 		</div>	
 	</div>
+ * 
+ */
+?>

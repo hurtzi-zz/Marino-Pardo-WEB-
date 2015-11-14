@@ -296,7 +296,7 @@ function moesia_nav_bar() {
 	echo '<div class="top-bar">
 			<div class="container">
 				<div id="principal" class="site-branding col-md-4">
-    				<a href="http://marinopardo.com" title="MarinoLogo"><img class="site-logo1" src="http://www.marinopardo.com/wp-content/uploads/2015/07/LOGO-PNG_comp.png" alt="MarinoLogoNav" /></a>
+    				<a href="http://marinopardo.com/#primary"><img class="site-logo1" src="http://www.marinopardo.com/wp-content/uploads/2015/07/LOGO-PNG_comp.png" alt="MarinoLogoNav" /></a>
     				<div id="derecha">';
     				if ( get_theme_mod('site_logo') ) :
 					    echo '<a href="' . esc_url( home_url( '/' ) ) . '" title="';
@@ -305,7 +305,7 @@ function moesia_nav_bar() {
 						    bloginfo('name');
 					    echo '" /></a>';
     				else :
-    					echo '<h1 class="site-title"><a href="' . esc_url( home_url( '/' ) ) . '" rel="home">';
+    					echo '<h1 class="site-title"><a href="' . esc_url( home_url( '/#primary' ) ) . '" rel="home">';
     						bloginfo( 'name' );
     					echo '</a></h1>';
     					echo '<h2 class="site-description">';

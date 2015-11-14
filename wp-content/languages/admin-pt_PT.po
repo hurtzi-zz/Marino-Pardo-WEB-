@@ -7,7 +7,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/1.0-alpha-1000\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
 "Project-Id-Version: Administration\n"
 
 #. Author URI of the plugin/theme
@@ -1657,23 +1657,23 @@ msgstr "&larr; Voltar ao editor"
 msgid "Compare Revisions of &#8220;%1$s&#8221;"
 msgstr "Comparar as Revisões de &#8220;%1$s&#8221;"
 
-#: wp-admin/post.php:288
+#: wp-admin/post.php:289
 msgid "This item has already been deleted."
 msgstr "Este item de já foi eliminado."
 
-#: wp-admin/post.php:276
+#: wp-admin/post.php:277
 msgid "You are not allowed to move this item out of the Trash."
 msgstr "Não pode mover este item para fora do Lixo."
 
-#: wp-admin/post.php:270
+#: wp-admin/post.php:271
 msgid "The item you are trying to restore from the Trash no longer exists."
 msgstr "O item que está a tentar retirar do Lixo já não existe."
 
-#: wp-admin/post.php:257
+#: wp-admin/post.php:258
 msgid "You cannot move this item to the Trash. %s is currently editing."
 msgstr "Não pode mover este item para o lixo. %s está a editá-lo."
 
-#: wp-admin/post.php:247
+#: wp-admin/post.php:248
 msgid "The item you are trying to move to the Trash no longer exists."
 msgstr "O item que está a tentar mover para o Lixo já não existe."
 
@@ -6612,16 +6612,16 @@ msgid "%1$s <span class=\"count\">(%2$s)</span>"
 msgstr "%1$s <span class=\"count\">(%2$s)</span>"
 
 #. translators: 1: Error code, 2: Error message.
-#: wp-admin/includes/class-wp-upgrader.php:3214
+#: wp-admin/includes/class-wp-upgrader.php:3217
 msgid "Error: [%1$s] %2$s"
 msgstr "Erro: [%1$s] %2$s"
 
 #. translators: 1: Error code, 2: Error message.
-#: wp-admin/includes/class-wp-upgrader.php:3211
+#: wp-admin/includes/class-wp-upgrader.php:3214
 msgid "Rollback Error: [%1$s] %2$s"
 msgstr "Erro de rollback: [%1$s] %2$s"
 
-#: wp-admin/includes/class-wp-upgrader.php:3187
+#: wp-admin/includes/class-wp-upgrader.php:3190
 msgid ""
 "UPDATE LOG\n"
 "=========="
@@ -6629,15 +6629,15 @@ msgstr ""
 "REGISTO DE ACTUALIZAÇÃO\n"
 "=========="
 
-#: wp-admin/includes/class-wp-upgrader.php:3184
+#: wp-admin/includes/class-wp-upgrader.php:3187
 msgid "[%s] Background updates have finished"
 msgstr "[%s] Actualizações terminadas"
 
-#: wp-admin/includes/class-wp-upgrader.php:3182
+#: wp-admin/includes/class-wp-upgrader.php:3185
 msgid "[%s] There were failures during background updates"
 msgstr "[%s] Ocorreram erros durante o processo de actualização"
 
-#: wp-admin/includes/class-wp-upgrader.php:3169
+#: wp-admin/includes/class-wp-upgrader.php:3172
 msgid ""
 "BETA TESTING?\n"
 "=============\n"
@@ -6661,312 +6661,312 @@ msgstr ""
 "\n"
 "Obrigado! -- Equipa WordPress"
 
-#: wp-admin/includes/class-wp-upgrader.php:3159
+#: wp-admin/includes/class-wp-upgrader.php:3162
 msgid "FAILED: %s"
 msgstr "ERRO: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:3153
+#: wp-admin/includes/class-wp-upgrader.php:3156
 msgid "The following translations failed to update:"
 msgstr "Os seguintes idiomas não puderam ser actualizados:"
 
-#: wp-admin/includes/class-wp-upgrader.php:3152
+#: wp-admin/includes/class-wp-upgrader.php:3155
 msgid "The following themes failed to update:"
 msgstr "Os seguintes temas não puderam ser actualizados:"
 
-#: wp-admin/includes/class-wp-upgrader.php:3151
+#: wp-admin/includes/class-wp-upgrader.php:3154
 msgid "The following plugins failed to update:"
 msgstr "Os seguintes plugins não puderam ser actualizados:"
 
-#: wp-admin/includes/class-wp-upgrader.php:3145
+#: wp-admin/includes/class-wp-upgrader.php:3148
 msgid "SUCCESS: %s"
 msgstr "SUCESSO: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:3140
+#: wp-admin/includes/class-wp-upgrader.php:3143
 msgid "The following translations were successfully updated:"
 msgstr "Os seguintes idiomas foram actualizados com sucesso:"
 
-#: wp-admin/includes/class-wp-upgrader.php:3139
+#: wp-admin/includes/class-wp-upgrader.php:3142
 msgid "The following themes were successfully updated:"
 msgstr "Os seguintes temas foram actualizados com sucesso:"
 
-#: wp-admin/includes/class-wp-upgrader.php:3138
+#: wp-admin/includes/class-wp-upgrader.php:3141
 msgid "The following plugins were successfully updated:"
 msgstr "Os seguintes plugins foram actualizados com sucesso:"
 
-#: wp-admin/includes/class-wp-upgrader.php:3125
+#: wp-admin/includes/class-wp-upgrader.php:3128
 msgid "FAILED: WordPress failed to update to %s"
 msgstr "ERRO: O WordPress não pôde ser actualizado para a versão %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:3123
+#: wp-admin/includes/class-wp-upgrader.php:3126
 msgid "SUCCESS: WordPress was successfully updated to %s"
 msgstr "SUCESSO: O WordPress foi actualizado para a versão %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:3117
+#: wp-admin/includes/class-wp-upgrader.php:3120
 msgid "WordPress site: %s"
 msgstr "Site WordPress: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:3063
+#: wp-admin/includes/class-wp-upgrader.php:3066
 msgid "Error code: %s"
 msgstr "Código de erro: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:3050
+#: wp-admin/includes/class-wp-upgrader.php:3053
 msgid "Your hosting company, support forum volunteers, or a friendly developer may be able to use this information to help you:"
 msgstr "Esta informação pode ser útil ao seu serviço de alojamento, aos voluntários no fórum de suporte ou a algum programador seu amigo:"
 
-#: wp-admin/includes/class-wp-upgrader.php:3049
+#: wp-admin/includes/class-wp-upgrader.php:3052
 msgid "We have some data that describes the error your site encountered."
 msgstr "Temos alguns dados que descrevem o erro que ocorreu no seu site."
 
-#: wp-admin/includes/class-wp-upgrader.php:3048
+#: wp-admin/includes/class-wp-upgrader.php:3051
 msgid "Your site was running version %s."
 msgstr "O seu site estava na versão  %s."
 
-#: wp-admin/includes/class-wp-upgrader.php:3044
+#: wp-admin/includes/class-wp-upgrader.php:3047
 msgid "The WordPress Team"
 msgstr "A equipa do WordPress"
 
-#: wp-admin/includes/class-wp-upgrader.php:3040
+#: wp-admin/includes/class-wp-upgrader.php:3043
 msgid "You also have some plugins or themes with updates available. Update them now:"
 msgstr "Também há actualizações disponíveis para alguns plugins e temas. Actualize-os agora:"
 
-#: wp-admin/includes/class-wp-upgrader.php:3035
+#: wp-admin/includes/class-wp-upgrader.php:3038
 msgid "If you reach out to us, we'll also ensure you'll never have this problem again."
 msgstr "Se nos contactar, garantimos que este problema não volta a acontecer."
 
-#: wp-admin/includes/class-wp-upgrader.php:3031 wp-admin/update-core.php:478
+#: wp-admin/includes/class-wp-upgrader.php:3034 wp-admin/update-core.php:478
 msgid "Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers."
 msgstr "É importante ter o seu site sempre actualizado por motivos de segurança, e ajuda também a tornar a internet um sítio mais seguro, para si e para quem o visita."
 
-#: wp-admin/includes/class-wp-upgrader.php:3025
+#: wp-admin/includes/class-wp-upgrader.php:3028
 msgid "If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help."
 msgstr "Se está com dificuldades ou necessita de apoio, os voluntários no fórum de suporte do WordPress.org podem dar-lhe uma ajuda."
 
-#: wp-admin/includes/class-wp-upgrader.php:3022
+#: wp-admin/includes/class-wp-upgrader.php:3025
 msgid "The WordPress team is willing to help you. Forward this email to %s and the team will work with you to make sure your site is working."
 msgstr "A equipa do WordPress está pronta a ajudar. Encaminhe este email para %s e a equipa irá trabalhar consigo para ter a certeza de que o seu site está a trabalhar."
 
-#: wp-admin/includes/class-wp-upgrader.php:3014
+#: wp-admin/includes/class-wp-upgrader.php:3017
 msgid "Please check out your site now. It's possible that everything is working. If it says you need to update, you should do so:"
 msgstr "Por favor, verifique agora o seu site. É possível que tudo esteja a funcionar. Se vê uma mensagem que sugere uma actualização, siga o conselho:"
 
-#: wp-admin/includes/class-wp-upgrader.php:3012
+#: wp-admin/includes/class-wp-upgrader.php:3015
 msgid "This means your site may be offline or broken. Don't panic; this can be fixed."
 msgstr "Isto significa que o seu site pode estar offline ou danificado. Não entre em pânico; o problema resolve-se."
 
-#: wp-admin/includes/class-wp-upgrader.php:3010
+#: wp-admin/includes/class-wp-upgrader.php:3013
 msgid "Your site at %1$s experienced a critical failure while trying to update to the latest version of WordPress, %2$s."
 msgstr "O seu site em %1$s sofreu uma falha crítica ao tentar a actualização para a versão mais recente do WordPress, %2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:3008
+#: wp-admin/includes/class-wp-upgrader.php:3011
 msgid "Your site at %1$s experienced a critical failure while trying to update WordPress to version %2$s."
 msgstr "Ocorreu uma falha crítica no seu site %1$s, ao tentar actualizar o WordPress para a versão  %2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:3000
+#: wp-admin/includes/class-wp-upgrader.php:3003
 msgid "We tried but were unable to update your site automatically."
 msgstr "Tentámos mas não fomos capazes de actualizar o seu site automaticamente."
 
-#: wp-admin/includes/class-wp-upgrader.php:2993
+#: wp-admin/includes/class-wp-upgrader.php:2996
 msgid "Please update your site at %1$s to WordPress %2$s."
 msgstr "Por favor actualize o site %1$s para o WordPress %2$s."
 
-#: wp-admin/includes/class-wp-upgrader.php:2985
-#: wp-admin/includes/class-wp-upgrader.php:3002
+#: wp-admin/includes/class-wp-upgrader.php:2988
+#: wp-admin/includes/class-wp-upgrader.php:3005
 msgid "Updating is easy and only takes a few moments:"
 msgstr "Actualizar é fácil e demora apenas um instante:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2984
+#: wp-admin/includes/class-wp-upgrader.php:2987
 msgid "WordPress %s is also now available."
 msgstr "O WordPress %s também está disponível agora"
 
-#: wp-admin/includes/class-wp-upgrader.php:2980
+#: wp-admin/includes/class-wp-upgrader.php:2983
 msgid "For more on version %s, see the About WordPress screen:"
 msgstr "Para saber mais sobre a versão %s, consulte a página Sobre o WordPress:"
 
-#: wp-admin/includes/class-wp-upgrader.php:2976
+#: wp-admin/includes/class-wp-upgrader.php:2979
 msgid "No further action is needed on your part."
 msgstr "Não precisa de fazer mais nada."
 
-#: wp-admin/includes/class-wp-upgrader.php:2973
+#: wp-admin/includes/class-wp-upgrader.php:2976
 msgid "Howdy! Your site at %1$s has been updated automatically to WordPress %2$s."
 msgstr "Olá! O seu site %1$s foi automaticamente actualizado para a versão %2$s do WordPress."
 
 #. translators: 1: Site name.
-#: wp-admin/includes/class-wp-upgrader.php:2958
+#: wp-admin/includes/class-wp-upgrader.php:2961
 msgid "[%1$s] URGENT: Your site may be down due to a failed update"
 msgstr "[%1$s] URGENTE: O seu site pode estar em baixo devido a uma falha na actualização"
 
 #. translators: 1: Site name, 2: WordPress version number.
-#: wp-admin/includes/class-wp-upgrader.php:2953
+#: wp-admin/includes/class-wp-upgrader.php:2956
 msgid "[%1$s] WordPress %2$s is available. Please update!"
 msgstr "[%1$s] WordPress %2$s já está disponível. Actualize agora!"
 
 #. translators: 1: Site name, 2: WordPress version number.
-#: wp-admin/includes/class-wp-upgrader.php:2947
+#: wp-admin/includes/class-wp-upgrader.php:2950
 msgid "[%1$s] Your site has updated to WordPress %2$s"
 msgstr "[%1$s] O seu site foi actualizado para a versão %2$s do WordPress"
 
-#: wp-admin/includes/class-wp-upgrader.php:2672
+#: wp-admin/includes/class-wp-upgrader.php:2675
 #: wp-admin/includes/update-core.php:1177 wp-admin/update-core.php:432
 msgid "WordPress updated successfully"
 msgstr "WordPress actualizado com sucesso."
 
-#: wp-admin/includes/class-wp-upgrader.php:2670 wp-admin/update-core.php:427
+#: wp-admin/includes/class-wp-upgrader.php:2673 wp-admin/update-core.php:427
 msgid "Installation Failed"
 msgstr "A Instalação Falhou"
 
-#: wp-admin/includes/class-wp-upgrader.php:2641
+#: wp-admin/includes/class-wp-upgrader.php:2644
 msgid "Translations for %s"
 msgstr "Traduções para %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2637
+#: wp-admin/includes/class-wp-upgrader.php:2640
 msgid "Updating plugin: %s"
 msgstr "A actualizar o plugin: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2631
+#: wp-admin/includes/class-wp-upgrader.php:2634
 msgid "Updating theme: %s"
 msgstr "A actualizar o tema: %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2625
+#: wp-admin/includes/class-wp-upgrader.php:2628
 msgid "WordPress %s"
 msgstr "WordPress %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2624
+#: wp-admin/includes/class-wp-upgrader.php:2627
 msgid "Updating to WordPress %s"
 msgstr "A actualizar para o WordPress %s"
 
-#: wp-admin/includes/class-wp-upgrader.php:2287
-#: wp-admin/includes/class-wp-upgrader.php:2321
+#: wp-admin/includes/class-wp-upgrader.php:2290
+#: wp-admin/includes/class-wp-upgrader.php:2324
 msgid "Please select a file"
 msgstr "Por favor seleccione um ficheiro"
 
-#: wp-admin/includes/class-wp-upgrader.php:2025
+#: wp-admin/includes/class-wp-upgrader.php:2028
 #: wp-admin/includes/update-core.php:820 wp-admin/includes/update-core.php:895
 #: wp-admin/includes/update-core.php:918
 msgid "The update cannot be installed because we will be unable to copy some files. This is usually due to inconsistent file permissions."
 msgstr "A actualização não pode ser instalada por não ter sido possível copiar alguns ficheiros. Isto deve-se normalmente a permissões inconsistentes de ficheiros."
 
-#: wp-admin/includes/class-wp-upgrader.php:1940
+#: wp-admin/includes/class-wp-upgrader.php:1943
 msgid "Due to an error during updating, WordPress has rolled back to your previous version."
 msgstr "Devido a um erro na actualização, o WordPress reverteu para a versão anterior."
 
-#: wp-admin/includes/class-wp-upgrader.php:1939
+#: wp-admin/includes/class-wp-upgrader.php:1942
 msgid "Attempting to roll back to previous version."
 msgstr "A tentar reverter para a versão anterior."
 
-#: wp-admin/includes/class-wp-upgrader.php:1938 wp-admin/includes/file.php:621
+#: wp-admin/includes/class-wp-upgrader.php:1941 wp-admin/includes/file.php:621
 #: wp-admin/includes/file.php:725
 msgid "Could not copy files. You may have run out of disk space."
 msgstr "Impossível copiar ficheiros. Pode estar com falta de espaço em disco."
 
-#: wp-admin/includes/class-wp-upgrader.php:1937
+#: wp-admin/includes/class-wp-upgrader.php:1940
 msgid "Could not copy files."
 msgstr "Impossível copiar ficheiros."
 
-#: wp-admin/includes/class-wp-upgrader.php:1933
+#: wp-admin/includes/class-wp-upgrader.php:1936
 msgid "WordPress is at the latest version."
 msgstr "O WordPress está na versão mais recente."
 
-#: wp-admin/includes/class-wp-upgrader.php:1883
+#: wp-admin/includes/class-wp-upgrader.php:1886
 msgid "The language pack is missing either the <code>.po</code> or <code>.mo</code> files."
 msgstr "Falta ao pacote de idioma o ficheiro <code>.po</code> ou o ficheiro <code>.mo</code>."
 
-#: wp-admin/includes/class-wp-upgrader.php:1706
+#: wp-admin/includes/class-wp-upgrader.php:1709
 msgid "Translation updated successfully."
 msgstr "Tradução actualizada com sucesso."
 
-#: wp-admin/includes/class-wp-upgrader.php:1705
+#: wp-admin/includes/class-wp-upgrader.php:1708
 msgid "Translation update failed."
 msgstr "A actualização da tradução falhou."
 
-#: wp-admin/includes/class-wp-upgrader.php:1703
+#: wp-admin/includes/class-wp-upgrader.php:1706
 msgid "Downloading translation from <span class=\"code\">%s</span>&#8230;"
 msgstr "A descarregar a tradução de <span class=\"code\">%s</span>&#8230;"
 
-#: wp-admin/includes/class-wp-upgrader.php:1701
+#: wp-admin/includes/class-wp-upgrader.php:1704
 msgid "The translation is up to date."
 msgstr "A tradução está actualizada."
 
-#: wp-admin/includes/class-wp-upgrader.php:1700
+#: wp-admin/includes/class-wp-upgrader.php:1703
 msgid "Some of your translations need updating. Sit tight for a few more seconds while we update them as well."
 msgstr "Algumas das suas traduções precisam de ser actualizadas. Por favor espere alguns segundos enquanto as actualizamos também."
 
-#: wp-admin/includes/class-wp-upgrader.php:1500
+#: wp-admin/includes/class-wp-upgrader.php:1503
 msgid "The theme is missing the <code>index.php</code> file."
 msgstr "O tema não tem o ficheiro <code>index.php</code>."
 
-#: wp-admin/includes/class-wp-upgrader.php:1496
+#: wp-admin/includes/class-wp-upgrader.php:1499
 msgid "The <code>style.css</code> stylesheet doesn't contain a valid theme header."
 msgstr "A folha de estilos <code>style.css</code> não tem um ceçalho de terma válido."
 
-#: wp-admin/includes/class-wp-upgrader.php:1491
+#: wp-admin/includes/class-wp-upgrader.php:1494
 msgid "The theme is missing the <code>style.css</code> stylesheet."
 msgstr "O tema não tem a folha de estilos <code>style.css</code>."
 
-#: wp-admin/includes/class-wp-upgrader.php:1147
+#: wp-admin/includes/class-wp-upgrader.php:1150
 msgid "<strong>The parent theme could not be found.</strong> You will need to install the parent theme, <strong>%s</strong>, before you can use this child theme."
 msgstr "<strong>O tema pai não foi encontrado.</strong> Deve instalar o tema pai <strong>%s</strong> antes de poder usar este tema."
 
 #. translators: 1: theme name, 2: version
-#: wp-admin/includes/class-wp-upgrader.php:1146
+#: wp-admin/includes/class-wp-upgrader.php:1149
 msgid "Successfully installed the parent theme, <strong>%1$s %2$s</strong>."
 msgstr "Tema pai <strong>%1$s %2$s</strong>, instalado com sucesso."
 
 #. translators: 1: theme name, 2: version
-#: wp-admin/includes/class-wp-upgrader.php:1144
+#: wp-admin/includes/class-wp-upgrader.php:1147
 msgid "The parent theme, <strong>%1$s %2$s</strong>, is currently installed."
 msgstr "O tema pai, <strong>%1$s %2$s</strong>, está instalado."
 
 #. translators: 1: theme name, 2: version
-#: wp-admin/includes/class-wp-upgrader.php:1142
+#: wp-admin/includes/class-wp-upgrader.php:1145
 msgid "Preparing to install <strong>%1$s %2$s</strong>&#8230;"
 msgstr "Preparando para instalar <strong>%1$s %2$s</strong>&#8230;"
 
-#: wp-admin/includes/class-wp-upgrader.php:1140
+#: wp-admin/includes/class-wp-upgrader.php:1143
 msgid "This theme requires a parent theme. Checking if it is installed&#8230;"
 msgstr "Este tema precisa de um tema pai. A verificar se está instalado&#8230;"
 
 #. translators: 1: theme name, 2: version
-#: wp-admin/includes/class-wp-upgrader.php:1139
+#: wp-admin/includes/class-wp-upgrader.php:1142
 msgid "Successfully installed the theme <strong>%1$s %2$s</strong>."
 msgstr "Tema <strong>%1$s %2$s</strong> instalado com sucesso."
 
-#: wp-admin/includes/class-wp-upgrader.php:1137
+#: wp-admin/includes/class-wp-upgrader.php:1140
 msgid "Theme installed successfully."
 msgstr "Tema instalado com sucesso."
 
-#: wp-admin/includes/class-wp-upgrader.php:1136
+#: wp-admin/includes/class-wp-upgrader.php:1139
 msgid "Theme install failed."
 msgstr "A instalação do tema falhou."
 
-#: wp-admin/includes/class-wp-upgrader.php:1135
+#: wp-admin/includes/class-wp-upgrader.php:1138
 msgid "The theme contains no files."
 msgstr "O tema não contém ficheiros."
 
-#: wp-admin/includes/class-wp-upgrader.php:1134
+#: wp-admin/includes/class-wp-upgrader.php:1137
 msgid "Installing the theme&#8230;"
 msgstr "A instalar o tema&#8230;"
 
-#: wp-admin/includes/class-wp-upgrader.php:1122
+#: wp-admin/includes/class-wp-upgrader.php:1125
 msgid "Theme updated successfully."
 msgstr "Tema actualizado com sucesso."
 
-#: wp-admin/includes/class-wp-upgrader.php:1121
+#: wp-admin/includes/class-wp-upgrader.php:1124
 msgid "Theme update failed."
 msgstr "A actualização do tema falhou."
 
-#: wp-admin/includes/class-wp-upgrader.php:1120
+#: wp-admin/includes/class-wp-upgrader.php:1123
 msgid "Could not remove the old theme."
 msgstr "Impossível remover o tema antigo."
 
-#: wp-admin/includes/class-wp-upgrader.php:1119
+#: wp-admin/includes/class-wp-upgrader.php:1122
 msgid "Removing the old version of the theme&#8230;"
 msgstr "A remover a versão antiga do tema&#8230;"
 
-#: wp-admin/includes/class-wp-upgrader.php:1115
+#: wp-admin/includes/class-wp-upgrader.php:1118
 msgid "The theme is at the latest version."
 msgstr "O tema está na sua versão mais recente."
 
-#: wp-admin/includes/class-wp-upgrader.php:984
+#: wp-admin/includes/class-wp-upgrader.php:987
 msgid "No valid plugins were found."
 msgstr "Não foi encontrado nenhum plugin válido."
 
@@ -6987,17 +6987,17 @@ msgid "Installing the plugin&#8230;"
 msgstr "A instalar o plugin&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:699
-#: wp-admin/includes/class-wp-upgrader.php:1133
+#: wp-admin/includes/class-wp-upgrader.php:1136
 msgid "Unpacking the package&#8230;"
 msgstr "A descompactar o pacote&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:698
-#: wp-admin/includes/class-wp-upgrader.php:1132
+#: wp-admin/includes/class-wp-upgrader.php:1135
 msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
 msgstr "A descarregar pacote de instalação de <span class=\"code\">%s</span>&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:697
-#: wp-admin/includes/class-wp-upgrader.php:1131
+#: wp-admin/includes/class-wp-upgrader.php:1134
 msgid "Install package not available."
 msgstr "O pacote de instalação não está disponível."
 
@@ -7022,22 +7022,22 @@ msgid "Removing the old version of the plugin&#8230;"
 msgstr "A remover a versão antiga do plugin&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:683
-#: wp-admin/includes/class-wp-upgrader.php:1118
-#: wp-admin/includes/class-wp-upgrader.php:1704
-#: wp-admin/includes/class-wp-upgrader.php:1936
+#: wp-admin/includes/class-wp-upgrader.php:1121
+#: wp-admin/includes/class-wp-upgrader.php:1707
+#: wp-admin/includes/class-wp-upgrader.php:1939
 msgid "Unpacking the update&#8230;"
 msgstr "A descompactar a actualização&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:682
-#: wp-admin/includes/class-wp-upgrader.php:1117
-#: wp-admin/includes/class-wp-upgrader.php:1935
+#: wp-admin/includes/class-wp-upgrader.php:1120
+#: wp-admin/includes/class-wp-upgrader.php:1938
 msgid "Downloading update from <span class=\"code\">%s</span>&#8230;"
 msgstr "A descarregar actualização de <span class=\"code\">%s</span>&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:681
-#: wp-admin/includes/class-wp-upgrader.php:1116
-#: wp-admin/includes/class-wp-upgrader.php:1702
-#: wp-admin/includes/class-wp-upgrader.php:1934
+#: wp-admin/includes/class-wp-upgrader.php:1119
+#: wp-admin/includes/class-wp-upgrader.php:1705
+#: wp-admin/includes/class-wp-upgrader.php:1937
 msgid "Update package not available."
 msgstr "O pacote de instalação não está disponível."
 
@@ -7108,7 +7108,7 @@ msgid "Filesystem error."
 msgstr "Erro do sistema de ficheiros"
 
 #: wp-admin/includes/class-wp-upgrader.php:120
-#: wp-admin/includes/class-wp-upgrader.php:2664 wp-admin/includes/file.php:527
+#: wp-admin/includes/class-wp-upgrader.php:2667 wp-admin/includes/file.php:527
 #: wp-admin/includes/plugin.php:795 wp-admin/includes/theme.php:53
 msgid "Could not access filesystem."
 msgstr "Foi impossível aceder ao sistema de ficheiros."
@@ -7118,7 +7118,7 @@ msgid "Invalid Data provided."
 msgstr "Indicados dados inválidos."
 
 #: wp-admin/includes/class-wp-upgrader-skins.php:668
-#: wp-admin/includes/class-wp-upgrader.php:2642
+#: wp-admin/includes/class-wp-upgrader.php:2645
 msgid "Updating translations for %1$s (%2$s)&#8230;"
 msgstr "A actualizar as traduções para %1$s (%2$s)&#8230;"
 
@@ -8599,64 +8599,64 @@ msgstr "Não foi possível inserir o link na base de dados"
 msgid "Could not update link in the database"
 msgstr "Não foi possível actualizar o link na base de dados"
 
-#: wp-admin/includes/ajax-actions.php:2951
+#: wp-admin/includes/ajax-actions.php:2953
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
 msgstr "Impossível ligar ao sistema de ficheiros. Por favor, confirme as suas credenciais."
 
-#: wp-admin/includes/ajax-actions.php:2904
+#: wp-admin/includes/ajax-actions.php:2906
 msgid "You do not have sufficient permissions to update plugins on this site."
 msgstr "Não tem permissões suficientes para actualizar os plugins deste site ."
 
 #. translators: 1: User's display name.
-#: wp-admin/includes/ajax-actions.php:2871
+#: wp-admin/includes/ajax-actions.php:2873
 msgid "%s has been logged out."
 msgstr "A sessão de %s foi terminada."
 
-#: wp-admin/includes/ajax-actions.php:2867
+#: wp-admin/includes/ajax-actions.php:2869
 msgid "You are now logged out everywhere else."
 msgstr "Todas as outras sessões foram terminadas."
 
-#: wp-admin/includes/ajax-actions.php:2859
+#: wp-admin/includes/ajax-actions.php:2861
 msgid "Could not log out user sessions. Please try again."
 msgstr "Não foi possível terminar as sessões do utilizador. Por favor, tente de novo."
 
-#: wp-admin/includes/ajax-actions.php:2772
+#: wp-admin/includes/ajax-actions.php:2774
 msgid "This preview is unavailable in the editor."
 msgstr "Esta pré-visualização não está disponível no editor."
 
-#: wp-admin/includes/ajax-actions.php:2742
+#: wp-admin/includes/ajax-actions.php:2744
 msgid "%s failed to embed."
 msgstr "%s falhou a incorporação."
 
-#: wp-admin/includes/ajax-actions.php:2690
+#: wp-admin/includes/ajax-actions.php:2692
 #: wp-admin/includes/plugin-install.php:485
 msgid "(based on %s rating)"
 msgid_plural "(based on %s ratings)"
 msgstr[0] "(baseado em %s votante)"
 msgstr[1] "(baseado em %s votantes)"
 
-#: wp-admin/includes/ajax-actions.php:1872
+#: wp-admin/includes/ajax-actions.php:1874
 msgid "You don't have permission to attach files to this post."
 msgstr "Não está autorizado a anexar ficheiros a este artigo."
 
-#: wp-admin/includes/ajax-actions.php:1858
+#: wp-admin/includes/ajax-actions.php:1860
 msgid "You don't have permission to upload files."
 msgstr "Não está autorizado a carregar ficheiros."
 
-#: wp-admin/includes/ajax-actions.php:1680
+#: wp-admin/includes/ajax-actions.php:1682
 #: wp-admin/includes/class-wp-posts-list-table.php:867
 #: wp-admin/includes/class-wp-posts-list-table.php:1292
 #: wp-admin/includes/meta-boxes.php:79 wp-admin/includes/meta-boxes.php:102
 msgid "Scheduled"
 msgstr "Agendado"
 
-#: wp-admin/includes/ajax-actions.php:1668
+#: wp-admin/includes/ajax-actions.php:1670
 #: wp-admin/includes/class-wp-posts-list-table.php:380
 #: wp-admin/includes/class-wp-posts-list-table.php:1073
 msgid "Date"
 msgstr "Data"
 
-#: wp-admin/includes/ajax-actions.php:1668
+#: wp-admin/includes/ajax-actions.php:1670
 msgid "Type"
 msgstr "Tipo"
 
@@ -9047,16 +9047,16 @@ msgstr "Opções do ecrã"
 msgid "This screen provides access to all of your posts. You can customize the display of this screen to suit your workflow."
 msgstr "Esta página dá-lhe acesso a todos os seus artigos. Pode personalizar esta página para que se adapte melhor ao seu fluxo de trabalho."
 
-#: wp-admin/edit.php:131 wp-admin/edit.php:134 wp-admin/post.php:300
-#: wp-admin/post.php:303 wp-admin/upload.php:156
+#: wp-admin/edit.php:131 wp-admin/edit.php:134 wp-admin/post.php:301
+#: wp-admin/post.php:304 wp-admin/upload.php:156
 msgid "Error in deleting."
 msgstr "Erro ao eliminar."
 
-#: wp-admin/edit.php:127 wp-admin/post.php:294
+#: wp-admin/edit.php:127 wp-admin/post.php:295
 msgid "You are not allowed to delete this item."
 msgstr "Não pode eliminar este item."
 
-#: wp-admin/edit.php:115 wp-admin/post.php:279
+#: wp-admin/edit.php:115 wp-admin/post.php:280
 msgid "Error in restoring from Trash."
 msgstr "Erro ao retirar do Lixo."
 
@@ -9064,11 +9064,11 @@ msgstr "Erro ao retirar do Lixo."
 msgid "You are not allowed to restore this item from the Trash."
 msgstr "Não pode retirar este item do Lixo."
 
-#: wp-admin/edit.php:101 wp-admin/post.php:261
+#: wp-admin/edit.php:101 wp-admin/post.php:262
 msgid "Error in moving to Trash."
 msgstr "Erro ao mover para o Lixo."
 
-#: wp-admin/edit.php:93 wp-admin/post.php:253
+#: wp-admin/edit.php:93 wp-admin/post.php:254
 msgid "You are not allowed to move this item to the Trash."
 msgstr "Não pode mover este item para o Lixo."
 
@@ -9136,8 +9136,8 @@ msgstr "Categoria adicionada."
 msgid "Items deleted."
 msgstr "Items eliminados."
 
-#: wp-admin/edit-tags.php:261 wp-admin/includes/ajax-actions.php:1622
-#: wp-admin/includes/ajax-actions.php:1627
+#: wp-admin/edit-tags.php:261 wp-admin/includes/ajax-actions.php:1624
+#: wp-admin/includes/ajax-actions.php:1629
 msgid "Item not updated."
 msgstr "Item não actualizado."
 
@@ -9357,7 +9357,7 @@ msgstr "Pendente"
 msgid "View Comment"
 msgstr "Ver Comentário"
 
-#: wp-admin/edit-form-comment.php:74 wp-admin/includes/ajax-actions.php:1668
+#: wp-admin/edit-form-comment.php:74 wp-admin/includes/ajax-actions.php:1670
 #: wp-admin/includes/class-wp-posts-list-table.php:1285
 msgid "Status"
 msgstr "Estado"
@@ -9390,11 +9390,11 @@ msgstr "Email (%s):"
 msgid "Name:"
 msgstr "Nome:"
 
-#: wp-admin/edit-form-advanced.php:557 wp-admin/includes/ajax-actions.php:2104
+#: wp-admin/edit-form-advanced.php:557 wp-admin/includes/ajax-actions.php:2106
 msgid "Last edited on %1$s at %2$s"
 msgstr "Última edição em %1$s às %2$s "
 
-#: wp-admin/edit-form-advanced.php:555 wp-admin/includes/ajax-actions.php:2102
+#: wp-admin/edit-form-advanced.php:555 wp-admin/includes/ajax-actions.php:2104
 msgid "Last edited by %1$s on %2$s at %3$s"
 msgstr "Última edição por %1$s, em %2$s às %3$s "
 
@@ -10013,7 +10013,7 @@ msgid "This screen is used to customize the header section of your theme."
 msgstr "Nesta página pode personalizar a secção de cabeçalho do seu tema."
 
 #: wp-admin/custom-background.php:370 wp-admin/custom-header.php:801
-#: wp-admin/includes/ajax-actions.php:1892
+#: wp-admin/includes/ajax-actions.php:1894
 msgid "The uploaded file is not a valid image. Please try again."
 msgstr "O ficheiro carregado não é uma imagem válida. Por favor tente novamente."
 
@@ -10410,8 +10410,8 @@ msgstr "Editar"
 msgid "You are not allowed to edit this item."
 msgstr "Não pode editar este item."
 
-#: wp-admin/async-upload.php:55 wp-admin/post.php:154 wp-admin/post.php:250
-#: wp-admin/post.php:273 wp-admin/post.php:291
+#: wp-admin/async-upload.php:55 wp-admin/post.php:154 wp-admin/post.php:251
+#: wp-admin/post.php:274 wp-admin/post.php:292
 msgid "Unknown post type."
 msgstr "Tipo de artigo desconhecido."
 
@@ -10449,165 +10449,167 @@ msgstr "Obrigado por criar com <a href=\"%s\">WordPress</a>."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:171
+#: wp-admin/about.php:183
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>A versão %1$s</strong> corrigiu um problema de segurança e %2$s bugs."
 msgstr[1] "<strong>A versão %1$s</strong> corrigiu um problema de segurança e %2$s bugs."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:167
+#: wp-admin/about.php:179
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>A versão %1$s</strong> corrigiu %2$s bugs."
 msgstr[1] "<strong>A versão %1$s</strong> corrigiu %2$s bugs."
 
-#: wp-admin/about.php:159
+#: wp-admin/about.php:171
 msgid "Security Release"
 msgid_plural "Security Releases"
 msgstr[0] "Actualização de segurança"
 msgstr[1] "Actualizações de segurança"
 
-#: wp-admin/about.php:158
+#: wp-admin/about.php:170
 msgid "Maintenance Release"
 msgid_plural "Maintenance Releases"
 msgstr[0] "Actualização de manutenção"
 msgstr[1] "Actualizações de manutenção"
 
-#: wp-admin/about.php:146
+#: wp-admin/about.php:158
 msgid "Go to Dashboard"
 msgstr "Ir para o Painel"
 
-#: wp-admin/about.php:146
+#: wp-admin/about.php:158
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Ir para o painel &rarr; Início"
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:154
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "Voltar ao painel &rarr; Actualizações"
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:154
 msgid "Return to Updates"
 msgstr "Voltar às actualizações"
 
 #. translators: 1: WP_Query, 2: WP_Comment_Query, 3: WP_User_Query
-#: wp-admin/about.php:133
+#: wp-admin/about.php:145
 msgid "%1$s, %2$s, and %3$s now support complex ordering with named meta query clauses."
 msgstr "%1$s, %2$s e %3$s suportam agora ordenações complexas com cláusulas meta de queries."
 
-#: wp-admin/about.php:130
+#: wp-admin/about.php:142
 msgid "Complex query ordering"
 msgstr "Ordenação complexa de queries"
 
 #. translators: 1: Term splitting guide link
-#: wp-admin/about.php:127
+#: wp-admin/about.php:139
 msgid "Terms shared across multiple taxonomies will be split when one of them is updated. Find out more in the <a href=\"%1$s\">Plugin Developer Handbook</a>."
 msgstr "Termos partilhados por várias taxonomias serão divididos quando um deles é actualizado. Saiba mais no <a href=\"%1$s\">Manual do developer de plugins</a>."
 
-#: wp-admin/about.php:124
+#: wp-admin/about.php:136
 msgid "Shared term splitting"
 msgstr "Divisão de termos partilhados"
 
 #. translators: %s wp.a11y.speak()
-#: wp-admin/about.php:120
+#: wp-admin/about.php:132
 msgid "You can now send audible notifications to screen readers in JavaScript with %s. Pass it a string, and an update will be sent to a dedicated ARIA live notifications area."
 msgstr "Pode agora enviar notificações audíveis para leitores de ecrã por JavaScript com %s. Envie-lhes uma frase e será enviada uma actualização para uma área dedicada de notificações ARIA."
 
-#: wp-admin/about.php:117
+#: wp-admin/about.php:129
 msgid "JavaScript accessibility"
 msgstr "Acessibilidade no JavaScript"
 
-#: wp-admin/about.php:115
+#: wp-admin/about.php:127
 msgid "Database character encoding has changed from utf8 to utf8mb4, which adds support for a whole range of new 4-byte characters."
 msgstr "A codificação de caracteres da base de dados mudou de utf8 para utf8mb4, que suporta toda uma nova gama de caracteres de 4 bytes."
 
-#: wp-admin/about.php:114
+#: wp-admin/about.php:126
 msgid "utf8mb4 support"
 msgstr "Suporte utf8mb4"
 
-#: wp-admin/about.php:110
+#: wp-admin/about.php:122
 msgid "Under the Hood"
 msgstr "Nos bastidores"
 
-#: wp-admin/about.php:105
+#: wp-admin/about.php:117
 msgid "Goodbye boring loading screen, hello smooth and simple plugin updates. Click <em>Update&nbsp;Now</em> and watch the magic happen."
 msgstr "Adeus página de actualização aborrecida, olá actualizações simples e suaves de plugins. Clique em <em>Actualizar&nbsp;agora</em> e veja a mágica a acontecer."
 
-#: wp-admin/about.php:104
+#: wp-admin/about.php:116
 msgid "Streamlined plugin updates"
 msgstr "Actualizações de plugins melhoradas"
 
-#: wp-admin/about.php:100
+#: wp-admin/about.php:112
 msgid "Paste links from Tumblr.com and Kickstarter and watch them magically appear right in the editor. With every release, your publishing and editing experience get closer together."
 msgstr "Cole links do Tumblr e Kickstarter e observe como aparecem correctamente no editor. A cada versão, a experiência de edição e publicação ficam cada vez mais juntas."
 
-#: wp-admin/about.php:99
+#: wp-admin/about.php:111
 msgid "Even more embeds"
 msgstr "Ainda mais incorporações"
 
-#: wp-admin/about.php:95
+#: wp-admin/about.php:107
 msgid "Browse and preview your installed themes from the Customizer. Make sure the theme looks great with <em>your</em> content, before it debuts on your site. "
 msgstr "Consulte e pré-visualize os temas instalados a partir do Personalizador. Verifique que o tema se adapta bem ao <em>seu</em> conteúdo antes de o activar no site."
 
-#: wp-admin/about.php:94
+#: wp-admin/about.php:106
 msgid "Switch themes in the Customizer"
 msgstr "Mude de tema no Personalizador"
 
-#: wp-admin/about.php:86
+#: wp-admin/about.php:98
 msgid "https://codex.wordpress.org/Emoji"
 msgstr "https://codex.wordpress.org/Emoji"
 
 #. translators: 1: heart emoji, 2: frog face emoji, 3, monkey emoji, 4: pizza
 #. emoji, 5: Emoji Codex link
-#: wp-admin/about.php:86
+#: wp-admin/about.php:98
 msgid "Don&#8217;t use any of those characters? You can still have fun &mdash; emoji are now available in WordPress! Get creative and decorate your content with %1$s, %2$s, %3$s, %4$s, and all the many other <a href=\"%5$s\">emoji</a>."
 msgstr "Não usa nenhum destes caracteres? Pode mesmo assim divertir-se &mdash; o WordPress suporta agora emojis! Liberte a sua criatividade e decore o seu conteúdo com %1$s, %2$s, %3$s, %4$s e todos os outros <a href=\"%5$s\">emojis</a>."
 
-#: wp-admin/about.php:83
+#: wp-admin/about.php:95
 msgid "Writing in WordPress, whatever your language, just got better. WordPress 4.2 supports a host of new characters out-of-the-box, including native Chinese, Japanese, and Korean characters, musical and mathematical symbols, and hieroglyphs."
 msgstr "Escrever no WordPress, independentemente do idioma, ficou agora muito mais fácil. O WordPress 4.2 suporta toda uma nova gama de caracteres, incluindo do Chinês, Japonês e Coreano, caracteres musicais, símbolos matemáticos e hieróglifos."
 
-#: wp-admin/about.php:82
+#: wp-admin/about.php:94
 msgid "Extended character support"
 msgstr "Suporte expandido de caracteres"
 
-#: wp-admin/about.php:68 wp-admin/tools.php:16 wp-admin/tools.php:40
+#: wp-admin/about.php:80 wp-admin/tools.php:16 wp-admin/tools.php:40
 #: wp-admin/tools.php:51
 msgid "Press This"
 msgstr "Press This"
 
-#: wp-admin/about.php:65 wp-admin/tools.php:48
+#: wp-admin/about.php:77 wp-admin/tools.php:48
 msgid "Drag the bookmarklet below to your bookmarks bar. Then, when you&#8217;re on a page you want to share, simply &#8220;press&#8221; it."
 msgstr "Arraste o bookmarklet seguinte para a sua barra de favoritos. Quando estiver numa página que queira partilhar, basta fazer &#8220;press&#8221;."
 
-#: wp-admin/about.php:64
+#: wp-admin/about.php:76
 msgid "Clip it, edit it, publish it. Get familiar with the new and improved Press This. From the <a href=\"%s\">Tools</a> menu, add Press This to your browser bookmark bar or your mobile device home screen. Once installed you can share your content with lightning speed. Sharing your favorite videos, images, and content has never been this fast or this easy."
 msgstr "Corte, edite e publique. Familiarize-se com o novo Press This. Adicione o bookmark ao seu browser ou dispositivo móvel, a partir do menu de <a href=\"%s\">Tools</a>. Uma vez instalado, pode partilhar conteúdo à velocidade da luz. Partilhar os seus vídeos, imagens e conteúdo preferidos nunca foi tão rápido e fácil."
 
-#: wp-admin/about.php:63
+#: wp-admin/about.php:75
 msgid "An easier way to share content"
 msgstr "Uma maneira mais fácil de partilhar conteúdo"
 
 #. translators: 1: WordPress version number.
-#: wp-admin/about.php:49 wp-admin/about.php:163
+#: wp-admin/about.php:61 wp-admin/about.php:175
 msgid "<strong>Version %1$s</strong> addressed a security issue."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues."
 msgstr[0] "<strong>A versão %1$s</strong> corrigiu um problema de segurança."
 msgstr[1] "<strong>A versão %1$s</strong> corrigiu alguns problemas de segurança."
 
-#: wp-admin/about.php:47 wp-admin/about.php:51 wp-admin/about.php:178
+#: wp-admin/about.php:47 wp-admin/about.php:51 wp-admin/about.php:55
+#: wp-admin/about.php:59 wp-admin/about.php:63 wp-admin/about.php:190
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Para mais informações, consulte as <a href=\"%s\">notas sobre esta actualização</a>."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:45 wp-admin/about.php:175
+#: wp-admin/about.php:45 wp-admin/about.php:49 wp-admin/about.php:53
+#: wp-admin/about.php:57 wp-admin/about.php:187
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>A versão %1$s</strong> corrigiu alguns problemas de segurança e %2$s bugs."
 msgstr[1] "<strong>A versão %1$s</strong> corrigiu alguns problemas de segurança e %2$s bugs."
 
-#: wp-admin/about.php:44 wp-admin/about.php:160
+#: wp-admin/about.php:44 wp-admin/about.php:172
 msgid "Maintenance and Security Release"
 msgid_plural "Maintenance and Security Releases"
 msgstr[0] "Actualização de manutenção e segurança"
@@ -10628,8 +10630,8 @@ msgid "What&#8217;s New"
 msgstr "O que há de novo"
 
 #: wp-admin/about.php:31 wp-admin/credits.php:87 wp-admin/freedoms.php:24
-#: wp-admin/includes/ajax-actions.php:2900
-#: wp-admin/includes/ajax-actions.php:2941
+#: wp-admin/includes/ajax-actions.php:2902
+#: wp-admin/includes/ajax-actions.php:2943
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:406
 #: wp-admin/includes/class-wp-plugins-list-table.php:557
 #: wp-admin/includes/update.php:164 wp-admin/includes/update.php:188

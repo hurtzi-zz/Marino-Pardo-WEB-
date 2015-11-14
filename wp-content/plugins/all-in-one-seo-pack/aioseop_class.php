@@ -2348,7 +2348,7 @@ EOF;
           "@type": "SearchAction",
           "target": "{$home_url}/?s={search_term}",
           "query-input": "required name=search_term"
-        }
+        },
 EOF;
 		}
 
@@ -2357,11 +2357,11 @@ EOF;
         {
           "@context": "http://schema.org",
           "@type": "WebSite",
-          "url": "{$home_url}/",
 EOF;
 		if ( !empty( $name_block ) )   $search_box .= $name_block;
 		if ( !empty( $search_block ) ) $search_box .= $search_block;
 		$search_box.=<<<EOF
+		  "url": "{$home_url}/"
         }
 </script>
 EOF;
@@ -3493,11 +3493,8 @@ EOF;
 				});
 				//]]>
 			</script>
-		<div class="aioseop_advert aioseop_nopad">
-			<a href="https://secure1.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=internalsemperfi&page=3000" target="_blank"><img src="<?php echo AIOSEOP_PLUGIN_IMAGES_URL; ?>inmotion.gif"></a>
-		</div>
 		<div class="aioseop_advert aioseop_nopad_all">
-				<?php $adid = mt_rand( 1, 4 ); ?>
+				<?php $adid = mt_rand( 11, 15 ); ?>
 				<a href="https://www.wincher.com/?referer=all-in-one-seo-pack&adreferer=banner<?php echo $adid; ?>" target="_blank"><div class=wincherad id=wincher<?php echo $adid; ?>></div></a>
 		</div>
 		<!-- Headway Themes-->
